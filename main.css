@@ -1,3 +1,22 @@
 body {
   background-color: green;
 }
+
+h2{
+  color: orange;
+}
+
+#articleOne{
+  font-family: 'Arial';
+  border: 10px solid black;
+}
+
+#articleTwo{
+  font-family: 'Gill Sans';
+  border: 4px dashed purple;
+}
+
+#articleThree{
+  font-family: "Cambria";
+  border: 8px dotted red;
+}
